@@ -1,5 +1,6 @@
 /ActFuns.Nuget.Server/*.suo
 /ActFuns.Nuget.Server/packages
 /ActFuns.Nuget.Server/ActFuns.Nuget.Server/*
-/packages
 /*.suo
+/ActFuns.Nuget.Server/obj
+/ActFuns.Nuget.Server/bin
